@@ -2,8 +2,8 @@ STDNO="z0000000"
 LAST="Last"
 FIRST="First"
 
-PY=python
-PANDOC=pandoc
+PY=/home/jung/anaconda3/envs/ecoptimizer/bin/python
+PANDOC=/usr/bin/pandoc
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/source
